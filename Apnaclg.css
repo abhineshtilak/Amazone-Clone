@@ -1,0 +1,39 @@
+.cover {
+    position: fixed;
+    top: 10;
+    left: 10px;
+    right: 10px;
+    height: 30vh;
+    color: white;
+    background-color: #0f1111;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px; 
+    z-index: 2;
+    
+    
+    
+}
+
+*{
+    z-index: 3;
+    background-color: white;
+}
+.halfcircle{
+    
+
+    background-color: rgb(216, 169, 17);
+    height: 182px;
+    width: 250px;
+    position: fixed;
+    border-radius: 120px;
+    border-bottom-left-radius:1px;
+    border-bottom-right-radius:2px;
+    top: 5vh;
+    right: -1vh;
+    z-index: 2;
+   
+}
+
+p span {
+    color: rgb(216, 169, 17);
+}
